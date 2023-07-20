@@ -10,6 +10,7 @@ namespace hientlgph30431_CSharp2_BT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
